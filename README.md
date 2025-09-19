@@ -7,3 +7,5 @@ I am seeking opportunities in my field where I can continuously learning and gro
 ◘ Hands-on experience with MATLAB/ SIMULINK, Coding (C++, Python), Machine learning, Classical and Intelligent Control Systems for real-world engineering applications.
 
 ◘ Published and documented several projects on GitHub, showcasing robotics simulations, control design, AI-driven models, and computer vision tasks.
+
+See my work on my organizations
