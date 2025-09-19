@@ -1,4 +1,4 @@
-# Ali-Deeb02
+# Ali-Deeb
 I am a Robotics and Intelligent Systems Engineer, recently graduated with a strong foundation in control systems, artificial intelligence, and autonomous robotics.
 My academic journey combined theory with practice, allowing me to design, model, and simulate intelligent robotic systems.
 I am seeking opportunities in my field where I can continuously learning and growing as an engineer.
